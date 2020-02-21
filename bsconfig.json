@@ -12,5 +12,11 @@
       "subdirs": true,
       "type": "dev"
     }
+  ],
+  "package-specs": [
+    {
+      "module": "es6",
+      "in-source": true
+    }
   ]
 }
